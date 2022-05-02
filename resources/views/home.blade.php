@@ -15,7 +15,7 @@
 					<h4>this is multiple file upload</h4>
 				</div>
 				<div class="card-body">
-					<button class="btn btn-sm btn-primary my-3 addBtn">Add</button>
+					<button class="btn btn-sm btn-primary my-3 addBtn">Add Files</button>
 					<table class="table table-striped">
 						<thead>
 							<tr>
